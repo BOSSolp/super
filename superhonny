@@ -1,0 +1,9 @@
+if game.PlaceId == 4996049426 then
+    loadstring(game:HttpGet("https://pastebin.com/raw/HN8DMe6S"))()
+    
+    elseif game.PlaceId == 6925849909 then
+    loadstring(game:HttpGet("https://pastebin.com/raw/WQfvyZyq"))()
+    
+    elseif game.PlaceId == 537413528 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/BOSSolp/super/main/boat"))()
+end
